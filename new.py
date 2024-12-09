@@ -1,6 +1,6 @@
 import itertools
 
-LIST = ['rugby', 'ginger', '8', 'august', 'james', 'jess', 'otto', '2011']
+LIST = ['Enter', 'KeyWords', 'Here']
 
 passwords = []
 
